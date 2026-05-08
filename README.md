@@ -14,11 +14,8 @@ depth, and updating Julia parameters with mouse movement.
 
 ## Preview
 
-<p>
-  <img src="docs/screenshots/julia-2.png" width="32%" alt="Julia 2 fractal" />
-  <img src="docs/screenshots/julia-1.png" width="32%" alt="Julia 1 fractal" />
-  <img src="docs/screenshots/mandelbrot.png" width="32%" alt="Mandelbrot fractal" />
-</p>
+Images are available in
+[docs/screenshots.md](docs/screenshots.md).
 
 ## Build
 
@@ -78,6 +75,3 @@ docs/           Notes and screenshots
 - Rendering is CPU-based.
 - Zoom depth is limited by floating point precision.
 - The project is a 2D explorer, not a full graphics engine.
-
-More images are available in
-[docs/screenshots.md](docs/screenshots.md).
